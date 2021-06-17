@@ -41,4 +41,8 @@ private:
 	void DebugLineFunction(FVector &LineTraceEnd,FVector  &PlayerViewPointLocaton) const;
 	//Return FHitResult
 	FHitResult GetFirstPhysicsBodyInReach() const;
+	//Return LineTraceEnd
+	FVector GetPlayersReach()const;
+	//Return GetPlayersWorldPosition
+	FVector GetPlayerWorldPos() const;
 };

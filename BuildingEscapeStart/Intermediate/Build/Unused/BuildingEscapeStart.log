@@ -1,0 +1,29 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Kasne\Git\UnrealProjects).
+  Invalidating makefile for BuildingEscapeStartEditor (cl.exe modified)
+  Parsing headers for BuildingEscapeStartEditor
+    Running UnrealHeaderTool "C:\Users\Kasne\Git\UnrealProjects\BuildingEscapeStart\BuildingEscapeStart.uproject" "C:\Users\Kasne\Git\UnrealProjects\BuildingEscapeStart\Intermediate\Build\Win64\BuildingEscapeStartEditor\Development\BuildingEscapeStartEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Kasne\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for BuildingEscapeStartEditor in 30.6245845 seconds
+C:\Users\Kasne\Git\UnrealProjects\BuildingEscapeStart\Source\BuildingEscapeStart\Grabber.cpp(1): error : Expected Grabber.h to be first header included.
+C:\Users\Kasne\Git\UnrealProjects\BuildingEscapeStart\Source\BuildingEscapeStart\OpenDoor.cpp(1): error : Expected OpenDoor.h to be first header included.
+  Building BuildingEscapeStartEditor...
+  Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 14 actions with 12 processes...
+    [1/14] SharedPCH.Engine.ShadowErrors.cpp
+    [2/14] BuildingEscapeStart.cpp
+    [3/14] WorldPosition.cpp
+    [4/14] Grabber.cpp
+    [5/14] OpenDoor.cpp
+    [6/14] BuildingEscapeStartGameModeBase.cpp
+    [7/14] BuildingEscapeStart.init.gen.cpp
+    [8/14] WorldPosition.gen.cpp
+    [9/14] Grabber.gen.cpp
+    [10/14] OpenDoor.gen.cpp
+    [11/14] BuildingEscapeStartGameModeBase.gen.cpp
+    [12/14] UE4Editor-BuildingEscapeStart-0091.lib
+       Creating library C:\Users\Kasne\Git\UnrealProjects\BuildingEscapeStart\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscapeStart\UE4Editor-BuildingEscapeStart-0091.lib and object C:\Users\Kasne\Git\UnrealProjects\BuildingEscapeStart\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscapeStart\UE4Editor-BuildingEscapeStart-0091.exp
+    [13/14] UE4Editor-BuildingEscapeStart-0091.dll
+       Creating library C:\Users\Kasne\Git\UnrealProjects\BuildingEscapeStart\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscapeStart\UE4Editor-BuildingEscapeStart-0091.suppressed.lib and object C:\Users\Kasne\Git\UnrealProjects\BuildingEscapeStart\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscapeStart\UE4Editor-BuildingEscapeStart-0091.suppressed.exp
+    [14/14] BuildingEscapeStartEditor.target
+  Total time in Parallel executor: 33.54 seconds
+  Total execution time: 80.24 seconds
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(45,5): error MSB3073: The command "D:\EpicGamesStorage\UE_4.26\Engine\Build\BatchFiles\Build.bat BuildingEscapeStartEditor Win64 Development -Project="C:\Users\Kasne\Git\UnrealProjects\BuildingEscapeStart\BuildingEscapeStart.uproject" -WaitMutex -FromMsBuild" exited with code -1.
