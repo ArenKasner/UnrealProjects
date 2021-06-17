@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BuildingEscapeStart",
+			"Path": "C:\\Users\\Kasne\\Git\\UnrealProjects\\BuildingEscapeStart\\Source\\BuildingEscapeStart.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BuildingEscapeStartEditor",
+			"Path": "C:\\Users\\Kasne\\Git\\UnrealProjects\\BuildingEscapeStart\\Source\\BuildingEscapeStartEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

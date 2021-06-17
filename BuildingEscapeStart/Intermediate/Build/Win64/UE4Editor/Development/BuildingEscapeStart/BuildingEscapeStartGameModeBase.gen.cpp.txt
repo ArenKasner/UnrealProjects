@@ -1,0 +1,9 @@
+C:\Users\Kasne\Git\UnrealProjects\BuildingEscapeStart\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscapeStart\Definitions.BuildingEscapeStart.h
+D:\EpicGamesStorage\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\EpicGamesStorage\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Kasne\Git\UnrealProjects\BuildingEscapeStart\Source\BuildingEscapeStart/BuildingEscapeStartGameModeBase.h
+D:\EpicGamesStorage\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\EpicGamesStorage\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\EpicGamesStorage\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\EpicGamesStorage\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\Kasne\Git\UnrealProjects\BuildingEscapeStart\Intermediate\Build\Win64\UE4Editor\Inc\BuildingEscapeStart\BuildingEscapeStartGameModeBase.generated.h

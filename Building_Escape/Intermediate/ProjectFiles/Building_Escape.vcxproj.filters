@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Building_Escape.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{C8F50E2A-EFAE-4375-BD3B-C13F8CCF4844}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Building_Escape.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Building_EscapeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{E0E69E3E-0AF8-47A7-AB74-CCE0EB7B0523}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Building_Escape">
+      <UniqueIdentifier>{4DFD04F0-77A5-4DBF-8E29-86D528776F91}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Building_Escape\Building_Escape.Build.cs">
+      <Filter>Source\Building_Escape</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Building_Escape\Building_Escape.cpp">
+      <Filter>Source\Building_Escape</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Building_Escape\Building_Escape.h">
+      <Filter>Source\Building_Escape</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Building_Escape\Building_EscapeGameModeBase.cpp">
+      <Filter>Source\Building_Escape</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Building_Escape\Building_EscapeGameModeBase.h">
+      <Filter>Source\Building_Escape</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Building_Escape\WorldPosition.cpp">
+      <Filter>Source\Building_Escape</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Building_Escape\WorldPosition.h">
+      <Filter>Source\Building_Escape</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

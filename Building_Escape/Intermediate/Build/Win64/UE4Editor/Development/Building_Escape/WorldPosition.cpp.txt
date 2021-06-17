@@ -1,0 +1,3 @@
+C:\Users\Kasne\Git\UnrealProjects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\Building_Escape\Definitions.Building_Escape.h
+C:\Users\Kasne\Git\UnrealProjects\Building_Escape\Source\Building_Escape\WorldPosition.h
+C:\Users\Kasne\Git\UnrealProjects\Building_Escape\Intermediate\Build\Win64\UE4Editor\Inc\Building_Escape\WorldPosition.generated.h

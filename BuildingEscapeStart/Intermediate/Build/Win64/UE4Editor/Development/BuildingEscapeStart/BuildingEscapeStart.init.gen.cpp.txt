@@ -1,0 +1,3 @@
+C:\Users\Kasne\Git\UnrealProjects\BuildingEscapeStart\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscapeStart\Definitions.BuildingEscapeStart.h
+D:\EpicGamesStorage\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\EpicGamesStorage\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

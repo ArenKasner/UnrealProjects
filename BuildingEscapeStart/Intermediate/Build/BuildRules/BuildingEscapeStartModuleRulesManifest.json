@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Kasne\\Git\\UnrealProjects\\BuildingEscapeStart\\Source\\BuildingEscapeStart\\BuildingEscapeStart.Build.cs",
+		"C:\\Users\\Kasne\\Git\\UnrealProjects\\BuildingEscapeStart\\Source\\BuildingEscapeStart.Target.cs",
+		"C:\\Users\\Kasne\\Git\\UnrealProjects\\BuildingEscapeStart\\Source\\BuildingEscapeStartEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
